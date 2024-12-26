@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348969614408",
+    "project_id": "mobile-inventory-firebas-d656a",
+    "storage_bucket": "mobile-inventory-firebas-d656a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348969614408:android:6f022ab2dad10caf012c7d",
+        "android_client_info": {
+          "package_name": "com.example.mobile_inventory_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QG8Yxt2gNJOqrMqfV9-SK2L3FvdIuSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
